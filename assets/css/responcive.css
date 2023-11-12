@@ -1,0 +1,56 @@
+@media all and (max-width: 1200px){
+     /* Start Banner Area */
+    .btn1 {
+        margin-left: 5px;
+        padding: 9px 22px;
+    }
+    .home_bannerArea_social {
+        margin-top: 30px;
+    }
+    .btn2 {
+        font-size: 16px;
+        padding: 14px 45px;
+    }
+}
+
+@media all and (max-width: 991px){
+    /* navbar */
+    .nav_img {
+        max-width: 82px;
+    }
+    /* Start Banner Area */
+    .btn_uncoment {
+        font-size: 16px;
+        padding: 10px 40px;
+    }
+    h1, .h1 {
+        font-size: 35px;
+    }
+    .home_banner_img{
+        margin-top: 30px;
+    }
+}
+@media all and (max-width: 767px){
+    /* Start Banner Area*/
+    .home_banner_vactor_img {
+        max-width: 270px;
+    }
+}
+@media all and (max-width: 576px){
+    /* navbar */
+    .nav_img {
+        max-width: 75px;
+    }
+    /* Start Banner Area*/
+    h1, .h1 {
+        font-size: 28px;
+        line-height: 42px;
+    }
+}
+@media all and (max-width: 450px){
+    /* Start Banner Area*/
+    .btn2 {
+        font-size: 16px;
+        padding: 12px 28px;
+    }
+}
